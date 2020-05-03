@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+c:\users\win10\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(160): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\win10\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(166): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\WIN10\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
